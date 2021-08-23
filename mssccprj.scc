@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Registrar.vbp]
+SCC_Aux_Path =\\alg01\d\Software\Vss,
+SCC_Project_Name ="$/Tools/Registrar", FGGAAAAA
